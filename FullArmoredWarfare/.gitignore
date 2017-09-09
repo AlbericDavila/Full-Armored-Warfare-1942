@@ -1,8 +1,22 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Visual Studio 2015 database file
+### Unreal Genereated Files ###
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+Content/StarterContent/
+
+### VS Genereated Files ###
 *.VC.db
+*.sln
+*.VC.opendb
+*.suo
+
+
 
 # Compiled Object files
 *.slo

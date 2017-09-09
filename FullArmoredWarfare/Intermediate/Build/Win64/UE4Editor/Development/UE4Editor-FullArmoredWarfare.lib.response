@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FullArmoredWarfare.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal Engine 4 Projects\Full Armored Warfare 1942\FullArmoredWarfare\Intermediate\Build\Win64\UE4Editor\Development\FullArmoredWarfare\FullArmoredWarfare.cpp.obj"
+"E:\Unreal Engine 4 Projects\Full Armored Warfare 1942\FullArmoredWarfare\Intermediate\Build\Win64\UE4Editor\Development\FullArmoredWarfare\FullArmoredWarfareGameModeBase.cpp.obj"
+"E:\Unreal Engine 4 Projects\Full Armored Warfare 1942\FullArmoredWarfare\Intermediate\Build\Win64\UE4Editor\Development\FullArmoredWarfare\FullArmoredWarfare.init.gen.cpp.obj"
+"E:\Unreal Engine 4 Projects\Full Armored Warfare 1942\FullArmoredWarfare\Intermediate\Build\Win64\UE4Editor\Development\FullArmoredWarfare\FullArmoredWarfareGameModeBase.gen.cpp.obj"
+"E:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\FullArmoredWarfare\PCLaunch.rc.res"
+"E:\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal Engine 4 Projects\Full Armored Warfare 1942\FullArmoredWarfare\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FullArmoredWarfare.lib"

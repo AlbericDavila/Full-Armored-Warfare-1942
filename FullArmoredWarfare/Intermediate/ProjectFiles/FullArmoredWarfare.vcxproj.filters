@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FullArmoredWarfare.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{20990FCD-768F-42F0-B509-A54B5BBD4ACE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FullArmoredWarfare.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FullArmoredWarfareEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{24AA86F7-6D6D-4AD8-A990-9802BF9F45A1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FullArmoredWarfare">
+			<UniqueIdentifier>{7E502716-7408-49A5-AAD8-2E2814884E88}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FullArmoredWarfare\FullArmoredWarfare.Build.cs">
+			<Filter>Source\FullArmoredWarfare</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FullArmoredWarfare\FullArmoredWarfare.cpp">
+			<Filter>Source\FullArmoredWarfare</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FullArmoredWarfare\FullArmoredWarfare.h">
+			<Filter>Source\FullArmoredWarfare</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FullArmoredWarfare\FullArmoredWarfareGameModeBase.cpp">
+			<Filter>Source\FullArmoredWarfare</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FullArmoredWarfare\FullArmoredWarfareGameModeBase.h">
+			<Filter>Source\FullArmoredWarfare</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

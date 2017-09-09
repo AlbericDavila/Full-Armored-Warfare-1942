@@ -1,0 +1,25 @@
+diff a/FullArmoredWarfare/.gitignore b/FullArmoredWarfare/.gitignore	(rejected hunks)
+@@ -1,22 +1,8 @@
+ # Visual Studio 2015 user specific files
+ .vs/
+ 
+-### Unreal Genereated Files ###
+-*/Build
+-*/Binaries
+-*/DerivedDataCache
+-*/Intermediate
+-*/Saved
+-
+-Content/StarterContent/
+-
+-### VS Genereated Files ###
++# Visual Studio 2015 database file
+ *.VC.db
+-*.sln
+-*.VC.opendb
+-*.suo
+-
+-
+ 
+ # Compiled Object files
+ *.slo
